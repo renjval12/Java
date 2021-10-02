@@ -1,7 +1,8 @@
-package Labs.wk1day1.Three;
+package wk1day1;
 
-public class Three {
-    public static void main(String args[]) {
+public class Three1 {
+
+	public static void main(String args[]) {
         int numOne = 1;
         int numTwo = 2;
         int numThree = 3;
@@ -11,4 +12,5 @@ public class Three {
         System.out.println(average);
 
     }
+
 }

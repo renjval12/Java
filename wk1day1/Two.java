@@ -1,4 +1,4 @@
-package Labs.wk1day1.Two;
+package wk1day1;
 
 public class Two {
     public static void main(String args[]) {
